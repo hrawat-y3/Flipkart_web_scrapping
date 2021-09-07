@@ -15,7 +15,7 @@ This project extract Item name, brand, original price, selling price, discount p
   "sale_price": ["455", ...], 
   "image_url": ["//static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png", ...],
   "product_category": ["Topwear"], 
-  "product_page_url": "https://www.flipkart.com/clothing-and-accessories/topwear/pr?          sid=clo%2Cash&otracker=categorytree&p%5BD=facets.ideal_for%255B%255D%3DMen&page=3"
+  "product_page_url": "https://www.flipkart.com/clothing-and-accessories/topwear/pr?sid=clo%2Cash&otracker=categorytree&p%5BD=facets.ideal_for%255B%255D%3DMen&page=3"          
   
   },
 ```
