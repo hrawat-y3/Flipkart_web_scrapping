@@ -1,6 +1,15 @@
 # Flipkart_web_scrapping
 
-This is a Scrapy project to scarp product details from Flipkart and storing the data in MongoDB cloud/localhost for further analysis when needed.
+This is a Scrapy project to scarp product details from Flipkart and storing the data in MongoDB for further analysis when needed. 
+This project want conducted in June 2021. 
+
+# Software Requirements
+- PyCharm IDE
+- Scrapy python library 
+
+# Overview 
+
+A scrapy web crawler 'flip_spider' was created to extract details of items in Flipkart product pages. The list of features to be extracted is modelled in the items.py file. We used xpath -paths to extract the details and stored the data collected in mongoDb cloud/local host database through pipeline.py file. 
 
 # Extracted Data
 
